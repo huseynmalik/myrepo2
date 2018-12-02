@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Qrup32Course:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Qrup32Course_war</output-path>
+    <root id="archive" name="Qrup32Course_war.war">
+      <element id="artifact" artifact-name="Qrup32Course:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+.lblDesign {
+    width: 200px;
+    display: inline-block;
+}
+
+.btnDesign {
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.btnDesign1 {
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.cmbDesign {
+    width: 160px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.txtDesign {
+    width: 154px;
+}
+
+.error {
+    color: red;
+}

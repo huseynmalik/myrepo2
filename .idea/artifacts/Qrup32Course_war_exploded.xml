@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Qrup32Course:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Qrup32Course_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Qrup32Course" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="ojdbc6" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="java-mail-1.4.4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Qrup32Course/web/Web" />
+    </root>
+  </artifact>
+</component>
